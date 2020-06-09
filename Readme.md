@@ -13,6 +13,7 @@ It is just an assignment and below is the requirement given:
 - User shall be visually informed with the result of “Slew to Nearest’ function or an exception.
 
 
+
 **To run the application**
 - run command `mvn clean install`
 - `java -jar path/to/jar/file`
